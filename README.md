@@ -1,4 +1,4 @@
-auroraNgEnterArroyKeyPress
+auroraNgEnterKeyPress
 =========================
 
 An AngularJS directive binding input element with Enter key press.
@@ -15,9 +15,9 @@ An AngularJS directive binding input element with Enter key press.
     <script src="./core/dist/aurora-ng-enter-key-press.js"></script>
     ```
 
-2. Add `auroraNgEnterArroyKeyPress` module as a dependency to your application:
+2. Add `auroraNgEnterKeyPress` module as a dependency to your application:
    ```javascript
-   angular.module('myApp', ['auroraNgEnterArroyKeyPress']);
+   angular.module('myApp', ['auroraNgEnterKeyPress']);
    ```
 
 3. Use directive inside your application:
